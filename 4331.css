@@ -1,0 +1,24 @@
+body {
+    background: #eef;
+}
+.a {
+    text-decoration: underline;
+}
+.d {
+    text-decoration: underline;
+    color: brown;
+}
+.n {
+    text-decoration: underline;
+    color: brown;
+}
+.y {
+    background-color: blueviolet;
+    color: #fff;
+    padding-left: 200px;
+}
+.u {
+    background-color: blueviolet;
+    color: #fff;
+    padding-left: 150px;
+}
